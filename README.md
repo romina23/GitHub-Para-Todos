@@ -1,15 +1,7 @@
-# Modificame
+Geografía
+Migraciones
+![ver imagen de migraciones] (https://www.google.com.ar/search?q=migraciones+internacionales&biw=1920&bih=964&source=lnms&tbm=isch&sa=X&ei=8ypZVKyaENGIsQT774GoAg&ved=0CAYQ_AUoAQ#facrc=_&imgdii=_&imgrc=rCncVBZ2IVhGUM%253A%3Bebe0YQAfn9FTGM%3Bhttp%253A%252F%252Fwww.portalpaula.org%252Fesfera%252Fxifres%252Fimatges%252Ffluxosmigratoris.jpg%3Bhttp%253A%252F%252Fwww.portalpaula.org%252Fesfera%252Fxifres%252Fxifres.php%253Fesfera%253D8%2526lng%253Dcas%3B557%3B319)
 
-Este es un primer texto para *modificar*, **cambiar** y jugar.
+Las migraciones pueden ser **externas** o **internas**
 
-> Es nuestro arenero personal
-
-Pueden:
-
-- Borrarme
-- Modificarme
-- Dejarme como está y agregar nuevas carpetas
-- [Desde acá me "copian"](https://github.com/acercadelaeducacion/GitHub-Para-Todos/fork)
-
-![beemo](http://media.giphy.com/media/Uoyf084JYOblK/giphy.gif "Este texto aparece cuando el mouse está sobre la imagen")
 
